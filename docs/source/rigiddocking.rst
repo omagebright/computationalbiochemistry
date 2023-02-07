@@ -1,4 +1,4 @@
-Docking
+Rigid Docking
 =====
 
 .. _installation:

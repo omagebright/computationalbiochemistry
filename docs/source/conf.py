@@ -4,9 +4,7 @@
 
 project = 'Computational Biochemistry'
 copyright = '2023, Folorunsho Bright Omage'
-copyright = 'Departamento de Bioquímica e Biologia Molecular (UFSM) Programas de Pós-Graduação em Ciências Biológicas: Bioquímica Toxicológica - PPGBTox Programa de Pós-Graduação em Educação em Ciências: Química da Vida e Saúde - PPGECQVS Centro de Ciências Naturais e Exatas - CCNE 97105-900 Santa Maria RS Brasil'
-author = 'Folorunsho Bright Omage, Prof Laura Orian, Prof João Batista Teixeira da Rocha '
-author = 'Prof Laura Orian, Prof João Batista Teixeira da Rocha '
+author = 'Folorunsho Bright Omage, Prof João Batista Teixeira da Rocha '
 
 release = '0.1'
 version = '0.1.0'

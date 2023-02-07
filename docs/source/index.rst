@@ -22,5 +22,5 @@ Contents
 .. toctree::
 
    usage
-   api
+   docking
    moleculardynamics

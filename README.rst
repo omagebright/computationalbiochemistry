@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
+Computational Biochemistry
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Departamento de Bioquímica e Biologia Molecular (UFSM) Programas de Pós-Graduação em Ciências Biológicas: Bioquímica Toxicológica - PPGBTox Programa de Pós-Graduação em Educação em Ciências: Química da Vida e Saúde - PPGECQVS Centro de Ciências Naturais e Exatas - CCNE 97105-900 Santa Maria RS Brasil
 
-Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://www.ufsm.br/cursos/pos-graduacao/santa-maria/ppgbtox

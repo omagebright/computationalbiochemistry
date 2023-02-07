@@ -1,4 +1,4 @@
-Welcome to Computational Biochemistry Text!
+Welcome to Computational Biochemistry Page!
 ===================================
 
 **Computational Biochemistry** is a field of biochemistry that uses computational technologies in biochemical research.
@@ -21,6 +21,8 @@ Contents
 
 .. toctree::
 
-   usage
-   docking
+   rigiddocking
+   flexibledocking
+   proteindocking
    moleculardynamics
+   dft

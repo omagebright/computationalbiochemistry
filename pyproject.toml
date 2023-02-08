@@ -3,6 +3,6 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "Compuatational Biochemistry"
+name = "Rocha's Lab"
 authors = [{name = "Folorunsho Bright Omage", email = "omagefolorunsho@gmail.com"}, {name = "Prof Laura Orian", email = "laura.orian@unipd.it "}, {name = "Prof João Batista Teixeira da Rocha", email = "joao.rocha@ufsm.br"}]
 dynamic = ["version 1", "Comprehensive Computational Biochemistry Text"]

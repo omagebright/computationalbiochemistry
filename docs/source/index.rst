@@ -1,4 +1,4 @@
-Welcome to Computational Biochemistry Page!
+Welcome to Rocha's Lab Computational Biochemistry Unit!
 ===================================
 
 **Computational Biochemistry** is a field of biochemistry that uses computational technologies in biochemical research.

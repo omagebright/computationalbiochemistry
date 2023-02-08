@@ -21,6 +21,8 @@ Contents
 
 .. toctree::
 
+   ligand
+   protein
    rigiddocking
    flexibledocking
    proteindocking

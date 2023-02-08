@@ -1,4 +1,4 @@
-Rigid Docking
+Protein-protein Docking
 =====
 
 .. _installation:

@@ -31,8 +31,6 @@ Using Antechamber:
 
 Antechamber is specifically designed for the generation of molecular force field parameters and the assignment of partial charges. The tool is widely used for the preparation of molecular systems for molecular dynamics simulations, and it generates force field parameters that can accurately describe the behavior of the molecule.
 
-.. code-block:: bash
-    $ antechamber -i ligand.H.pdb -fi pdb -o ligand.mol2 -fo mol2 -c bcc -nc 0 -rn ligand -at gaff2
     
 .. code-block:: bash
 
@@ -53,6 +51,16 @@ Antechamber uses a combination of empirical and quantum mechanical methods to de
    -rn ligand specifies the root name for the output file, which is ligand.
    -at gaff2 specifies the atom type to be used, which is the General AMBER force field 2 (GAFF2).
 
+Examining force field parameters with parmchk2
+-------
+
+While the most likely combinations of bond, angle and dihedral parameters are defined in the parameter file it is possible that our molecule might contain combinations of atom types for bonds, angles or dihedrals that have not been parameterised. If this is the case, we will have to specify any missing parameters before we can create our prmtop and inpcrd files in LEap.
+
+We will use parmchk2 to test if all the parameters we require are available.
+
+.. code-block:: bash
+
+    $ parmchk2 -i GWS.mol2 -f mol2 -o GWS.frcmod -s gaff2
 
 
 3. Preparation of a parameter file, which provides information about the simulation conditions, such as temperature, pressure, and simulation time.
